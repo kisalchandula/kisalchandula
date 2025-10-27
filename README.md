@@ -1,4 +1,4 @@
-🌍 I’m passionate about Geomatik (Geodesy + Informaik)
+🌍 I’m passionate about Geomatik (Geodesy + Informatik)
 
 💻 Skilled in JavaScript, Python, and Java
 
